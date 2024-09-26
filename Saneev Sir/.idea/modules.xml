@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pattern.java/Pattern.java.iml" filepath="$PROJECT_DIR$/Pattern.java/Pattern.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemsClg/ProblemsClg.iml" filepath="$PROJECT_DIR$/ProblemsClg/ProblemsClg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RakeshSir.iml" filepath="$PROJECT_DIR$/.idea/RakeshSir.iml" />
+    </modules>
+  </component>
+</project>
